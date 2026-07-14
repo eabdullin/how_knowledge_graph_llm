@@ -103,6 +103,16 @@ The benchmark is a selected and normalized derivative of [MAMO](https://github.c
 
 The repository's original code is licensed under the Apache License 2.0. The MAMO-derived benchmark remains under CC BY-SA 4.0.
 
-## Source snapshot
+## Citation
 
-The artifact was prepared from `knowledge_graph_llm` commit `d427ee06bc6d96834152d0d8f396e8a54ce8b6bd`. Author-specific citation metadata is deferred while the associated manuscript is under anonymous review.
+If you use this repository, please cite the associated paper. Replace the placeholders below once the publication details are available:
+
+```bibtex
+@inproceedings{citation-key-to-be-updated,
+  title     = {How Should LLMs See a Knowledge Graph? Comparing Text, Image, and Tool-Based Modalities for Information Elicitation},
+  author    = {Authors to be added},
+  booktitle = {Venue to be added},
+  year      = {Year to be added},
+  url       = {Paper URL to be added}
+}
+```
